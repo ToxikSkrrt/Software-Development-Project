@@ -6,6 +6,9 @@ Unfortunately, since this project was made in my third year in University, the d
 
 Below, there is the full french version of the original README for this project
 
+## Other projects
+Check all my projects on this [page](https://github.com/ToxikSkrrt/Projects).
+
 ---
 
 # PDL - l1b
@@ -82,8 +85,3 @@ Ce serveur répond aux différents besoins suivants :
 - Nicolas Cornu--Laporte : nicolas.cornu-laporte@etu.u-bordeaux.fr
 - Thomas Alexandre Moreau : thomas-alexandre.moreau@etu.u-bordeaux.fr
 - Timothée Cohen : timothee.cohen@etu.u-bordeaux.fr
-
----
-
-## Other projects
-Check all my projects on this [page](https://github.com/ToxikSkrrt/Projects).
