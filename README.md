@@ -1,7 +1,7 @@
 # Software  Development Project
 
 It is a project made with Java (backend) and Typescript (frontend), and powered by Maven/Vue. It also uses PostgreSQL for the database.  
-It displays a functionnal website on a localhost where you can upload, download and see images. You can also apply filters on them or use a system of upvotes/downvotes.  
+It displays a functionnal website on a localhost where you can upload, download and see images. You can also apply filters on them or use a system of upvotes/downvotes. You can also do similarity searches on an image to find which image(s) are closer to your original image.  
 Unfortunately, since this project was made in my third year in University, the database is no longer available and prevents the server from loading correctly. It should be possible however to disable parts using the database and make this server load again.
 
 Below, there is the full french version of the original README for this project
