@@ -1,3 +1,13 @@
+# Software  Development Project
+
+It is a project made with Java (backend) and Typescript (frontend), and powered by Maven/Vue. It also uses PostgreSQL for the database.  
+It displays a functionnal website on a localhost where you can upload, download and see images. You can also apply filters on them or use a system of upvotes/downvotes.  
+Unfortunately, since this project was made in my third year in University, the database is no longer available and prevents the server from loading correctly. It should be possible however to disable parts using the database and make this server load again.
+
+Below, there is the full french version of the original README for this project
+
+---
+
 # PDL - l1b
 
 Ce projet, IMGine, est une application web conçue pour le stockage et le traitement de photos au format PNG et JPEG. Il offre également des fonctionnalités de recherche par similarité pour retrouver facilement vos images préférées.
