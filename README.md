@@ -78,6 +78,10 @@ Ce serveur répond aux différents besoins suivants :
 - Listes des images repensé (possibilité de télécharger le json)
 - Interface utilisateur repensé (agréable, simple d'utilisation, ...)
 
+---
+
+## Other projects
+Check all my projects on this [page](https://github.com/ToxikSkrrt/Projects).
 
 ## Contributeurs
 - Nicolas Cornu--Laporte : nicolas.cornu-laporte@etu.u-bordeaux.fr
